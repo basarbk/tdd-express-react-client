@@ -1,0 +1,16 @@
+$primary: #818;
+
+@import '~bootstrap/scss/bootstrap.scss';
+
+.btn-delete-link {
+  color: $gray-400;
+  padding: 0;
+}
+
+.btn-delete-link:hover {
+  color: $danger;
+}
+
+.card-header {
+  background-color: #3355ff12;
+}
